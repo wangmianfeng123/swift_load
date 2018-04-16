@@ -1,0 +1,17 @@
+#platform :ios, '9.0'
+use_frameworks!
+
+target 'swift_load' do 
+
+  pod 'AFNetworking', '~> 3.1.0'
+  pod 'SVProgressHUD'
+  pod 'AMap3DMap', '~>5.6.0'
+  pod 'AMapLocation'
+  pod 'SDWebImage'
+  pod 'AMapSearch'
+  pod 'AMapNavi'
+  pod 'MJExtension'
+  pod 'Masonry'
+  pod 'MJRefresh'
+
+end

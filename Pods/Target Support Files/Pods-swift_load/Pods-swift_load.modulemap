@@ -1,0 +1,6 @@
+framework module Pods_swift_load {
+  umbrella header "Pods-swift_load-umbrella.h"
+
+  export *
+  module * { export * }
+}
